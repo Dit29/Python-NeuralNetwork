@@ -8,3 +8,5 @@ In addition to that, the code is unoptimised. However, this repository would be 
 
 The code is free-to-use
 Rad 20/07/2021
+
+Keep training!
